@@ -32,4 +32,6 @@
 <img width="862" height="631" alt="image" src="https://github.com/user-attachments/assets/a1a288ba-7538-42dc-aaeb-d422ac484165" />
 # imagen 1 creacion en sh
 
-# imagen 5
+# ejercicio5
+<img width="664" height="123" alt="image" src="https://github.com/user-attachments/assets/1d2c03d1-b98e-4c5b-a394-97a7111b46fa" />
+
